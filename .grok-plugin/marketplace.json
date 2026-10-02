@@ -395,6 +395,19 @@
       "homepage": "https://github.com/Unity-Technologies/unity-agent-plugin",
       "keywords": ["unity", "unity engine", "unity editor", "unity 6", "unity cli", "unity plugin", "unity game development", "ui toolkit", "shader graph", "unity iap", "levelplay"],
       "domains": ["unity.com", "unity3d.com", "docs.unity3d.com", "docs.unity.com", "discussions.unity.com", "assetstore.unity.com"]
+    },
+    {
+      "name": "respira",
+      "description": "Respira for WordPress: read and edit a live WordPress site in the page builder's own format (Elementor, Divi, Bricks, Gutenberg and more). An edit to a published page lands on a draft copy a person approves, and every write saves a snapshot first. Needs the Respira plugin on the site and a Respira account.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/respira-press/respira-wordpress-mcp.git",
+        "sha": "c88573064a774301b20c3480a88ba0c3265276da"
+      },
+      "homepage": "https://www.respira.press/integrations/grok",
+      "keywords": ["respira", "respira wordpress", "respira mcp"],
+      "domains": ["respira.press"]
     }
   ]
 }
