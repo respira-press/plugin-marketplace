@@ -874,8 +874,8 @@
         ]
       }
     },
-    "respira": {
-      "sha": "c88573064a774301b20c3480a88ba0c3265276da",
+    "respira-for-wordpress": {
+      "sha": "df821d1fa3ff3f48929b9a19155283fd7b60017e",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
